@@ -13,5 +13,5 @@ A collection of projects to use for my portfolio
   <li>bootstrap</li>
 <ul>
 
-<p>Source code: <a href="https://github.com/BlakeVidebeck/Yelpcamp"></a></p>
-<p>Live version <a href="https://peaceful-caverns-55911.herokuapp.com/"></a></p>
+<a href="https://github.com/BlakeVidebeck/Yelpcamp" target="_blank" rel="nofollow">Source code</a>
+<a href="https://peaceful-caverns-55911.herokuapp.com/" target="_blank" rel="nofollow">Live version</a>
