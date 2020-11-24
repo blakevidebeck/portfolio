@@ -32,7 +32,7 @@
 <h2>Yelpcamp - react version</h2>
 <p>Converted existing Yelpcamp website to use React and Redux state manager</p>
 <p><a href="https://github.com/BlakeVidebeck/yelpcamp-react">Source code</a></p>
-<p><a href="https://fathomless-cliffs-98221.herokuapp.com/api/campgrounds" rel="nofollow">Live version</a></p>
+<p><a href="https://fathomless-cliffs-98221.herokuapp.com/" rel="nofollow">Live version</a></p>
 <h4>Technologies:</h4>
 <ul>
   <li>MERN stack - mongo, express, react, node</li>
