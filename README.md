@@ -10,8 +10,6 @@
 <ul>
   <li>React</li>
   <li>Redux</li>
-  <li>Node</li>
-  <li>Express</li>
   <li>stripe API</li>
   <li>Firebase</li>
 </ul>
