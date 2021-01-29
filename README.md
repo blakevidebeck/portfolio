@@ -2,6 +2,22 @@
 <h3>A collection of my best projects</h3>
 
 <br>
+<h2>crwn-clothing</h2>
+<p>An Eccommerce app that lets users browse and buy products using stripe</p>
+<p><a href="https://github.com/BlakeVidebeck/crwn-clothing">Source code</a></p>
+<p><a href="https://crwn-clothing1995.herokuapp.com" rel="nofollow">Live version</a></p>
+<h4>Technologies:</h4>
+<ul>
+  <li>React</li>
+  <li>Redux</li>
+  <li>Node</li>
+  <li>Express</li>
+  <li>stripe API</li>
+  <li>Firebase</li>
+</ul>
+<hr>
+
+<br>
 <h2>ProShop</h2>
 <p>A Eccommerce app that lets users browse and buy products</p>
 <p><a href="https://github.com/BlakeVidebeck/proshop">Source code</a></p>
